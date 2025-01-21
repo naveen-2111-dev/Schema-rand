@@ -1,4 +1,4 @@
-# **Schema-Rand**
+# **Schema-Rand** ![schema-rand](https://img.shields.io/badge/schema--rand-v1.0.4-blue)
 
 `schema-rand` is a lightweight Node.js package for generating random mock data based on a given schema. It’s designed to simplify the process of creating test data for development and testing purposes.
 
