@@ -1,0 +1,17 @@
+{
+  "name": "schema-rand",
+  "version": "1.0.4",
+  "description": "A utility to analyze schemas and generate random values based on schema types.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "schema",
+    "analyze",
+    "utility",
+    "npm"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
